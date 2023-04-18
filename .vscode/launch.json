@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreadPriorityExample",
+            "request": "launch",
+            "mainClass": "ThreadPriorityExample",
+            "projectName": "java-Lab_1c048af"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "java-Lab_1c048af"
+        },
+        {
+            "type": "java",
+            "name": "StopThreadExample",
+            "request": "launch",
+            "mainClass": "StopThreadExample",
+            "projectName": "java-Lab_1c048af"
+        },
+        {
+            "type": "java",
+            "name": "MultipleThread",
+            "request": "launch",
+            "mainClass": "MultipleThread",
+            "projectName": "java-Lab_1c048af"
+        },
+        {
+            "type": "java",
             "name": "FileCopy",
             "request": "launch",
             "mainClass": "FileCopy",
