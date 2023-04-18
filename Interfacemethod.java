@@ -1,4 +1,3 @@
-// interface method code by ANkit kumar gupta
 interface Calculator {
     int add(int a, int b);
     int sub(int a, int b);
@@ -18,6 +17,7 @@ class BasicCalculator implements Calculator {
 
 public class Interfacemethod{
     public static void main(String[] args) {
+        System.out.println("============made by Navneet Kumar 20/1362===========");
         Calculator calc = new BasicCalculator();
         int result1 = calc.add(5, 3);
         int result2 = calc.sub(5, 3);

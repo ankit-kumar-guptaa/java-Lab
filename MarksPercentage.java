@@ -4,8 +4,8 @@ public class MarksPercentage {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("------------Made By Ankit KUmar Gupta 20/383---------");
-
+        
+System.out.println("------------Made By Navneet Kumar 20/1362---------");
         System.out.print("Enter the marks for subject 1: ");
         int marks1 = sc.nextInt();
 
@@ -24,3 +24,4 @@ public class MarksPercentage {
         sc.close();
     }
 }
+                                            

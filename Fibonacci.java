@@ -1,8 +1,8 @@
-// this code provide by Ankit KUmar GUpta
 import java.util.Scanner;
 
 public class Fibonacci {
     public static void main(String[] args) {
+        System.out.println("-------------------Made by Navneet Kumar----------------");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of terms: ");
         int n = sc.nextInt();
@@ -20,4 +20,4 @@ public class Fibonacci {
             return fibonacci(n - 1) + fibonacci(n - 2);
         }
     }
-}
+}    
